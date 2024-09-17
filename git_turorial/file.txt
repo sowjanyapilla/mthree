@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 main branch change
 from feature
 
+=======
+great work
+>>>>>>> 96691f0 (feature progress)
